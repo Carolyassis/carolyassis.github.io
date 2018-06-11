@@ -1,0 +1,79 @@
+
+body {
+	font-size: 1.8rem;
+	font-family: 'Open Sans', sans-serif;
+	color: #444;
+}
+.h1-home{
+	font-size: 40px !important;
+}
+
+h2 {
+	font-size: 25px;
+	margin: 20px 0;
+	color: #000;
+	text-align:  center;
+}
+
+h3,
+h4 {
+	font-size: 12px;
+	color: #484545;
+	text-decoration: none;
+	margin: 15px 0;
+}
+
+a {
+	color: #1475ab;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.logotipo{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    }
+.cabecalho{
+	background-color: rgba(255, 0, 118, 0.24);
+}
+.euzinha{
+	width: 70%;
+	he
+	ight: 200px;
+	object-fit: cover;
+	transition: .3s;
+}
+
+.clear {
+	clear: both;
+}
+.picture-center {
+	margin: 0 auto;
+	display: block;
+}
+.conhecimento{
+	margin-top: 30px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+.clientes{
+	width: 300px;
+	height: 100px;
+	object-fit: contain;
+	transition: .3s;
+}
+.txtcenter{
+	text-align: center !important;
+}
+.padding{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.flex{
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
